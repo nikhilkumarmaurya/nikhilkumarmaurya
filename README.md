@@ -118,5 +118,5 @@ const nikhil: DeveloperProfile = {
 
 <p align="center">
   💬 <i>"Turning Ideas into Intelligent Digital Solutions."</i><br>
-  📫 <b>Get in touch:</b> <a href="mailto:dev.nikhil.maurya@gmail.com">dev.nikhil.maurya@gmail.com</a> | <a href="https://nikhilkumarmaurya.pages.dev">nikhilkumarmaurya.pages.dev</a>
+  📫 <b>Get in touch:</b> <a href="mailto:Simplebutrich@gmail.com">Nikhil Kumar Maurya</a> | <a href="https://nikhilkumarmaurya.pages.dev">nikhilkumarmaurya.pages.dev</a>
 </p>
