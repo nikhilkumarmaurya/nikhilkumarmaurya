@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header with Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar;Creative+Programme+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar;Creative+Programmer+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+</h1>
 
 </div>
 
@@ -18,7 +20,7 @@
 ---
 
 <!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff006e,50,00d9ff,100,0084ff&height=120&section=header&text=Full%20Stack%20Developer%20%26%20AI%20Engineer&desc=Building%20Scalable%20Digital%20Solutions&descSize=18&fontSize=45&fontColor=ffffff" alt="Header Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,ff006e,50,00d9ff,100,0084ff&height=120&section=header&text=Full%20Stack%20Developer%20%26%20AI%20Engineer&fontSize=40&fontColor=fff&fontAlignY=70" alt="Waving Header"/>
 
 ---
 
@@ -238,9 +240,9 @@ const developer = {
 
 ### 💻 Performance Metrics
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&icon_color=ff006e&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=nikhilkumarmaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&icon_color=ff006e&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&text_color=ffffff&border_radius=10" alt="Top Languages"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilkumarmaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=00d9ff&text_color=ffffff" alt="Top Languages"/>
 
 ### 🔥 Contribution Streak
 
@@ -358,7 +360,7 @@ const developer = {
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00d9ff,50,ff006e,100,0284c7&height=130&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=38&fontColor=ffffff" alt="Footer Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00d9ff,50,ff006e,100,0284c7&height=130&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=38&fontColor=fff&fontAlignY=75" alt="Footer Wave"/>
 
 <div align="center">
 
