@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar+M;Creative+Programme+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar;Creative+Programme+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
 
 </div>
 
