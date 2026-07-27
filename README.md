@@ -1,8 +1,8 @@
-<div align="center">
+t<div align="center">
 
 <!-- Animated Header with Dynamic Typing Effect -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar;Creative+Programmer+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=650&size=50&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=900&height=100&lines=👋+Hi+There!+I'm+Nikhil+Kumar;Creative+Programmer+%7C+AI+Engineer;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
 </h1>
 
 </div>
